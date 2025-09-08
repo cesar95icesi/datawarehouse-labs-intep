@@ -1,0 +1,16 @@
+ID,Nombre,Edad,Programa,Semestre,Ciudad,Matematicas,Programacion,Ingles,Fisica,Promedio,Rendimiento,Mejor_Materia,Peor_Materia,Es_Local
+1001,Ana García,19,Ingeniería,3,Cali,3.8,4.2,4.1,3.5,3.9,Bueno,Programacion,Fisica,True
+1002,Carlos López,20,Administración,5,Bogotá,3.2,3.9,4.3,2.8,3.55,Bueno,Ingles,Fisica,False
+1003,María Rodríguez,18,Ingeniería,2,Cali,4.1,4.5,3.9,3.7,4.05,Sobresaliente,Programacion,Fisica,True
+1004,José Martín,21,Medicina,7,Medellín,2.9,3.1,4.2,3.4,3.4,Aceptable,Ingles,Matematicas,False
+1005,Laura Sánchez,19,Psicología,4,Cali,3.6,3.8,4.5,3.2,3.78,Bueno,Ingles,Fisica,True
+1006,David Torres,20,Ingeniería,6,Bogotá,4.3,4.7,4.0,4.1,4.28,Sobresaliente,Programacion,Ingles,False
+1007,Sara González,22,Derecho,8,Cartagena,3.4,3.2,3.8,3.6,3.5,Bueno,Ingles,Programacion,False
+1008,Miguel Pérez,19,Administración,3,Cali,3.7,4.1,4.2,3.3,3.82,Bueno,Ingles,Fisica,True
+1009,Elena Ruiz,20,Medicina,5,Medellín,3.9,3.5,4.4,3.8,3.9,Bueno,Ingles,Programacion,False
+1010,Pablo Jiménez,18,Ingeniería,1,Cali,4.2,4.8,3.7,4.0,4.18,Sobresaliente,Programacion,Ingles,True
+1011,Carmen Morales,21,Psicología,6,Bogotá,3.1,3.4,4.1,2.9,3.38,Aceptable,Ingles,Fisica,False
+1012,Antonio Díaz,19,Derecho,4,Barranquilla,3.5,3.7,3.9,3.5,3.65,Bueno,Ingles,Matematicas,False
+1013,Isabel Castro,20,Administración,7,Cali,2.8,3.3,4.0,3.1,3.3,Aceptable,Ingles,Matematicas,True
+1014,Fernando Ortega,22,Medicina,9,Medellín,4.0,3.6,4.3,3.9,3.95,Bueno,Ingles,Programacion,False
+1015,Lucía Herrera,19,Ingeniería,2,Cali,4.4,4.6,4.2,4.2,4.35,Sobresaliente,Programacion,Ingles,True

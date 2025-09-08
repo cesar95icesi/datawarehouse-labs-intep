@@ -1,0 +1,56 @@
+{
+  "etl_timestamp": "2025-09-02T15:26:05.632412",
+  "source_file": "TATAMOTORS_NSE_1995-2025.csv",
+  "original_shape": [
+    7804,
+    15
+  ],
+  "processed_shape": [
+    7804,
+    29
+  ],
+  "date_range": {
+    "start": "1995-01-02T00:00:00",
+    "end": "2025-08-19T00:00:00"
+  },
+  "new_columns_added": 14,
+  "total_trading_days": 7804,
+  "years_covered": 31,
+  "columns": [
+    "Date",
+    "Symbol",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "PrevClose",
+    "Volume",
+    "Turnover",
+    "VWAP",
+    "Trades",
+    "Daily_Return_%",
+    "MA_20",
+    "MA_50",
+    "Daily_Range",
+    "Avg_Price",
+    "Daily_Volatility_%",
+    "Year",
+    "Month",
+    "Quarter",
+    "Day_of_Week",
+    "Is_Weekend",
+    "MA_5",
+    "MA_200",
+    "Golden_Cross",
+    "Death_Cross",
+    "Return_Category",
+    "Volume_MA_20",
+    "High_Volume"
+  ],
+  "summary_stats": {
+    "min_price": 57.55,
+    "max_price": 1382.0,
+    "avg_daily_return": Infinity,
+    "avg_daily_volatility": 3.7137751698755164
+  }
+}
